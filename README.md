@@ -8,7 +8,7 @@
 
 # 読み上げれいんぼっと
 
-Discord サーバー「びすこーど！」専用の読み上げ Bot。
+Discord サーバー「[びすこーど！](https://biscord.bistan-tool.com/)」専用の読み上げ Bot。
 
 ## ライセンス
 
